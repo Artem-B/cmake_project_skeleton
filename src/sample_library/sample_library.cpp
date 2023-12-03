@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <cmake_project_skeleton/sample_library.hpp>
 
 int factorial(int input) noexcept
 {

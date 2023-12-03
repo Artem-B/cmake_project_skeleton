@@ -1,5 +1,5 @@
 # Enable cache if available
-function(myproject_enable_cache)
+function(cmake_project_skeleton_enable_cache)
   set(CACHE_OPTION
       "ccache"
       CACHE STRING "Compiler cache to be used")
